@@ -1,6 +1,6 @@
 # Julius Martin Banda
 
-**Flutter Developer – QA & Bug Resolution Specialist**  
+**Full-Stack Mobile Developer**  
 Lusaka, Zambia  
 Email: bandahmj@gmail.com | Phone: +260972489279
 
@@ -27,7 +27,7 @@ Detail-oriented Flutter Developer with over 4 years’ experience building robus
 
 ## Professional Experience
 
-**Senior Software Development Officer – QA & Debugging**  
+**Senior Software Development Officer**  
 ProBase Limited, Lusaka, Zambia  
 _Mar 2021 – Present_
 
@@ -64,7 +64,9 @@ Evelyn Hone College (2018–2020)
     - Verified financial workflows and data accuracy
 - **Unka Go Driver:** [Play Store](https://play.google.com/store/apps/details?id=com.probase.unka.driver)  
     - Led debugging and minor fixes
-- **Nyamula, eWorkers, LCCShimzlaw:**  
+- **Nyamula:** [Play Store](https://play.google.com/store/apps/details?id=com.probase.nyamula)
+- **eWorkers:** [Play Store](https://play.google.com/store/apps/details?id=com.probase.workers)
+- **LCCShimzlaw:** [Play Store](https://play.google.com/store/apps/details?id=com.probase.billboards)
     - Ensured reliability through rigorous testing and collaboration
 
 ---
