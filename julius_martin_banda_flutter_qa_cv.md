@@ -55,11 +55,14 @@ Evelyn Hone College (2018–2020)
 
 ## Projects
 
-- **Unka Go – Request a Ride:** [Play Store](https://play.google.com/store/apps/details?id=com.probase.unka)
+- **Portfolio & Admin Dashboard:**  
+  Cross-platform app showcasing personal projects, built with Flutter + Firebase (Web, Android, iOS).  
+  [Live Demo](https://juliusmartinbanda.web.app/)
+- **Unka Go – Request a Ride:** [Play Store](https://play.google.com/store/apps/details?id=com.probase.unka)  
     - QA lead for bug resolution and feature verification
-- **Penda:** [Play Store](https://play.google.com/store/apps/details?id=com.probase.msme)
+- **Penda:** [Play Store](https://play.google.com/store/apps/details?id=com.probase.msme)  
     - Verified financial workflows and data accuracy
-- **Unka Go Driver:** [Play Store](https://play.google.com/store/apps/details?id=com.probase.unka.driver)
+- **Unka Go Driver:** [Play Store](https://play.google.com/store/apps/details?id=com.probase.unka.driver)  
     - Led debugging and minor fixes
 - **Nyamula, eWorkers, LCCShimzlaw:**  
     - Ensured reliability through rigorous testing and collaboration
